@@ -6,7 +6,7 @@
 #thankfully we only need to read in one line!
 
 def get_line() -> list:
-    filepath = "day9/input.txt"
+    filepath = "day09/input.txt"
     file = open(filepath, "r")
     for line in file:
         disk = list(line[:-1])

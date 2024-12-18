@@ -1,6 +1,6 @@
 
 
-filepath = "day8/input.txt"
+filepath = "day08/input.txt"
 file = open(filepath, "r")
 
 #read in file

@@ -1,6 +1,6 @@
 
 
-filepath = "day7/input.txt"
+filepath = "day07/input.txt"
 file = open(filepath, "r")
 
 #going to use a recursive approach because that seems like the most logical thing to do

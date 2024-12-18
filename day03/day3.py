@@ -2,7 +2,7 @@
 import re
 
 #read the file in
-filepath = "day3/day3-input.txt"
+filepath = "day03/day3-input.txt"
 file = open(filepath, "r")
 
 #regex time

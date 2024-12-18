@@ -1,5 +1,5 @@
 
-filepath = "day6/input.txt"
+filepath = "day06/input.txt"
 file = open(filepath, "r")
 
 

@@ -1,4 +1,4 @@
-filepath = "day4/day4-input.txt"
+filepath = "day04/day4-input.txt"
 file = open(filepath, "r")
 
 """

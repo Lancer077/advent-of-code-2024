@@ -1,5 +1,5 @@
 #get the file and set up the file reading
-filepath = "day1/day1-input.txt"
+filepath = "day01/day1-input.txt"
 file = open(filepath, "r")
 
 #originally thought about sorting the list as I read it in, but I got a late start to advent of code

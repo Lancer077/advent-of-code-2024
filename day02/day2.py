@@ -1,9 +1,5 @@
 #new file reading setup
-testing = False
-if testing:
-    filepath = "day2/day2-test-input.txt"
-else:
-    filepath = "day2/day2-input.txt"
+filepath = "day2/day2-input.txt"
 file = open(filepath, "r")
 
 #I remember doing a somewhat similar leetcode problem before 

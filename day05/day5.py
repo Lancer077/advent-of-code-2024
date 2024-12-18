@@ -1,6 +1,6 @@
 from collections import defaultdict, deque
 
-filepath = "day5/day5-input.txt"
+filepath = "day05/day5-input.txt"
 file = open(filepath, "r")
 
 """
